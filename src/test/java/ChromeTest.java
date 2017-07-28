@@ -10,10 +10,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import io.github.bonigarcia.wdm.ChromeDriverManager;
 
 /**
- * Test with Chrome.
- *
- * @author Boni Garcia (boni.gg@gmail.com)
- * @since 1.0.0
+ * Test with Chrome
  */
 public class ChromeTest {
 
